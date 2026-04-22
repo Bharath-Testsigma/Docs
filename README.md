@@ -20,5 +20,8 @@ Experimental documentation and proof-of-concept write-ups.
 ## 🚀 Getting Started
 If you are new to the team, we recommend starting with the **Atto Agents Guide** to understand the core philosophy of our AI layer.
 
+*   **[Glossary](./GLOSSARY.md)**: Common terms and definitions.
+*   **[Contributing](./CONTRIBUTING.md)**: How to add new documentation.
+
 ---
 *Maintained by the Testsigma AI Team.*
